@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/stats-base-dists-lognormal-mean",
+  "version": "0.0.0",
+  "description": "Lognormal distribution expected value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-lognormal-mean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "moments",
+    "gaussian",
+    "normal",
+    "log",
+    "logarithm",
+    "continuous",
+    "mean",
+    "average",
+    "avg",
+    "expected",
+    "lognormal",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
