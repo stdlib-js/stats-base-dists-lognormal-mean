@@ -32,10 +32,14 @@ The [mean][mean] for a [lognormal][lognormal-distribution] random variable is
 
 <!-- <equation class="equation" label="eq:lognormal_mean" align="center" raw="\mathbb{E} \left[ X \right] = \exp({\mu +\sigma^{2}/2})" alt="Mean for a lognormal distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\mathbb{E} \left[ X \right] = \exp({\mu +\sigma^{2}/2})" data-equation="eq:lognormal_mean">
+```math
+\mathbb{E} \left[ X \right] = \exp({\mu +\sigma^{2}/2})
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\mathbb{E} \left[ X \right] = \exp({\mu +\sigma^{2}/2})" data-equation="eq:lognormal_mean">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/lognormal/mean/docs/img/equation_lognormal_mean.svg" alt="Mean for a lognormal distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -219,7 +223,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
