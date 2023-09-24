@@ -70,7 +70,7 @@ where `μ` is the location parameter and `σ > 0` is the scale parameter. Accord
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-mean@v0.1.0-deno/mod.js';
 ```
 
 #### mean( mu, sigma )
@@ -130,7 +130,7 @@ y = mean( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-lognormal-mean@v0.1.0-deno/mod.js';
 
 var sigma;
 var mu;
