@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-07)
+## Unreleased (2026-01-17)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`2141b2f`](https://github.com/stdlib-js/stdlib/commit/2141b2f3469ee6e013716201f8e39e083d3676d3) - **bench:** update random value generation [(#9780)](https://github.com/stdlib-js/stdlib/pull/9780) _(by Harsh Yadav)_
 -   [`a7a77a7`](https://github.com/stdlib-js/stdlib/commit/a7a77a7ba28bc0f55275db3a77a0117f0679b317) - **test:** remove duplicate NaN test cases in normal mean [(#9588)](https://github.com/stdlib-js/stdlib/pull/9588) _(by Suyash Pathak)_
 -   [`3b39228`](https://github.com/stdlib-js/stdlib/commit/3b39228e76a9586ede35c2c128939f21c6982d09) - **docs:** replace manual `for` loop in examples [(#8263)](https://github.com/stdlib-js/stdlib/pull/8263) _(by Harsh Yadav)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
